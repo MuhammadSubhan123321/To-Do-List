@@ -1,17 +1,20 @@
 📝 To-Do List Web App
 
 **A simple and interactive To-Do List application built with HTML, CSS, and JavaScript.
-This project allows users to add tasks with due dates, display them in a clean grid layout, and delete tasks once completed.**
+This project allows users to add tasks with due dates, display them in a clean grid layout, and delete tasks once completed.
+All tasks are saved in localStorage, so your list is preserved even if you refresh or close the page.**
 
 🚀 **Features**
 
-- Add new tasks with a name and due date.
+➕ Add new tasks with a name and due date
 
-- Display tasks in a structured grid layout.
+📋 Display tasks in a structured grid layout
 
-- Delete tasks instantly with a single click.
+❌ Delete tasks instantly with a single click
 
-- Responsive and user-friendly interface. 
+💾 Persistent storage using localStorage (tasks remain after refresh/reload)
+
+📱 Responsive and user-friendly interface
 
 🛠️ **Technologies Used**
 
@@ -19,7 +22,7 @@ This project allows users to add tasks with due dates, display them in a clean g
 
 2- CSS3 – Styling and grid layout
 
-3- JavaScript (ES6) – Core functionality (Add/Delete tasks)
+3- JavaScript (ES6) – Core functionality (Add/Delete tasks, localStorage support)
 
 📸 **Preview**
 
@@ -59,11 +62,13 @@ Clone this repository
 
 📅 **Future Improvements**
 
-✅ Save tasks in localStorage (persist after refresh)
+✅ Save tasks in localStorage (done ✔️)
 
-✅ Add an Edit option for tasks
+✏️ Add an Edit option for tasks
 
-✅ Mark tasks as completed with a checkbox
+☑️ Mark tasks as completed with a checkbox
+
+🗂 Filter tasks by due date (Upcoming / Overdue)
 
 👨‍💻** Author**
 
