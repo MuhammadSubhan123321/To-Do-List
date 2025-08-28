@@ -70,6 +70,6 @@ Clone this repository
 
 🗂 Filter tasks by due date (Upcoming / Overdue)
 
-👨‍💻** Author**
+👨‍💻 **Developer**
 
-Developed by Muhammad Subhan
+Muhammad Subhan – Full-Stack Developer (in progress)
